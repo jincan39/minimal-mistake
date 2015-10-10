@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:           个人小站
 locale:           en_US
 url:
 
@@ -26,9 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Channing
+  avatar: https://avatars3.githubusercontent.com/u/4374980?v=3&s=460
+  # bio-photo.jpg
+  bio: "Helo."
   email:
   disqus-shortname:
   twitter: #username
@@ -53,7 +54,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo:jincan39 #username
   flickr: #username
   codepen: #username
 
