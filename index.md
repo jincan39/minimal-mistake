@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose and modified by Channing."
 tags: [Jekyll, theme, responsive, blog, template]
 
 ---
