@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: About
+- title: 关于
   url: /about/
 
-- title: Sample Posts
+- title: 文章笔记
   url: /posts/
 
-- title: Theme Setup
+- title: 样式
   url: /theme-setup/
 
-- title: Made Mistakes
+- title: 个人网站
   url: http://mademistakes.com
