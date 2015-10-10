@@ -15,7 +15,7 @@ comments: true
 * <a markdown="0" href="http://qiudeqing.com/article.html" class="btn">qiudeqing</a><br />
 * <a markdown="0" href="http://lingyu.wang/#/category/JS技术" class="btn">lingyu.wang</a><br />
 * <a markdown="0" href="http://ecomfe.github.io/" class="btn">ecomfe官网</a><br />
-* <a markdown="0" href="http://qiudeqing.com/article.html" class="btn">qiudeqing</a><br />
+* <a markdown="0" href="http://blog.smdcn.net/" class="btn">smdcn</a><br />
 * <a markdown="0" href="http://hmqk1995.github.io/" class="btn">hmqk1995</a><br />
 
 
