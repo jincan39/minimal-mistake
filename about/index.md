@@ -9,7 +9,9 @@ comments: true
 <!--  feature: sample-image-2.jpg-->
 <!--  credit: WeGraphics-->
 <!--  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/-->
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+你好 这是一个即将毕业的学生
+
+Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
 
 ## Minimal Mistakes is all about:
 
