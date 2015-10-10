@@ -41,7 +41,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: jincan39
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
@@ -54,7 +54,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo:jincan39 #username
+  weibo: #username
   flickr: #username
   codepen: #username
 
