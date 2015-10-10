@@ -1,9 +1,3 @@
-<!------->
-<!--layout: page-->
-<!--title: "About"-->
-<!--description: "Hey, this is Hux."-->
-<!--header-img: "img/about-bg.jpg"-->
-<!------->
 ---
 layout: page
 title: About
@@ -12,6 +6,14 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
+
+<!------->
+<!--layout: page-->
+<!--title: "About"-->
+<!--description: "Hey, this is Hux."-->
+<!--header-img: "img/about-bg.jpg"-->
+<!------->
+
 <!-- Language Selector -->
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
     <option value="0" selected> 中文 Chinese </option>
