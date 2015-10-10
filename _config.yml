@@ -27,7 +27,8 @@ kramdown:
 # Site owner
 owner:
   name: Channing
-  avatar: bio-photo.jpg
+  avatar: photo.jpg
+  #bio-photo.jpg
   # https://avatars3.githubusercontent.com/u/4374980?v=3&s=460
   # bio-photo.jpg
   bio: "Helo.<br /> This is A developer just graduated and from Shanghai."
