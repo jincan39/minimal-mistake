@@ -19,15 +19,15 @@ comments: true
 
 
 
-<br />
-* Support for Disqus Comments
+<!--<br />-->
+<!--* Support for Disqus Comments-->
 
-{% highlight html %}
-Comment below to exchange links
-{% endhighlight %}
-{% highlight html %}
-有朋自远方来，欢迎留言交流😊
-{% endhighlight %}
+<!--{% highlight html %}-->
+<!--Comment below to exchange links-->
+<!--{% endhighlight %}-->
+<!--{% highlight html %}-->
+<!--有朋自远方来，欢迎留言交流😊-->
+<!--{% endhighlight %}-->
 
 <!--<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>-->
 
