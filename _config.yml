@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:           金璨
+# title:           金璨
 # locale:           en_US
 locale:           en_US
-url:
+url:http://163.com
 
 
 # Jekyll configuration
