@@ -1,19 +1,19 @@
 # Site navigation links
 
-# - title: 首页
-  # url: https://github.com/jincan39
+- title: 首页
+  url: https://github.com/jincan39
   
 - title: 关于
   url: /about/
 
 - title: 所有文章
   url: /posts/
-
-  # - title: 样式
-  # url: /theme-setup/
   
-  # - title: 友情链接
-  # url: /friends/
+- title: 样式
+  url: /theme-setup/
+  
+- title: 友情链接
+  url: /friends/
   
 
 
