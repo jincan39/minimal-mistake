@@ -6,7 +6,6 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-列表
 
 ## Some other style blogs:
 
@@ -28,5 +27,7 @@ comments: true
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * Support for Disqus Comments
 
+
+Comment below to exchange links
 <!--<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
 -->
