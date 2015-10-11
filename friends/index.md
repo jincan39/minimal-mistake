@@ -29,7 +29,7 @@ Comment below to exchange links
 有朋自远方来，欢迎留言交流😊
 {% endhighlight %}
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+<!--<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>-->
 
 
 <!--## Buttons-->
