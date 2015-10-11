@@ -14,7 +14,17 @@
   <p>{{ author.bio }}</p>
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
   {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
-   {% if author.zhihu %}<a href="http://zhihu.com/{{ author.zhihu }}" class="author-social" target="_blank"><i class="fa fa-fw fa-zhihu-square"></i> Zhihu</a>{% endif %}
+   <!--{% if site.zhihu_username %}-->
+   <!--                         <li>-->
+   <!--                             <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">-->
+   <!--                                 <span class="fa-stack fa-lg">-->
+   <!--                                     <i class="fa fa-circle fa-stack-2x"></i>-->
+   <!--                                     <i class="fa  fa-stack-1x fa-inverse">知</i>-->
+   <!--                                 </span>-->
+   <!--                             </a>-->
+   <!--                         </li>-->
+   <!--                         {% endif %}-->
+  {% if author.zhihu %}<a href="http://zhihu.com/people{{ author.zhihu }}" class="author-social" target="_blank"><i class="fa fa-fw fa-zhihu-square"></i> Zhihu</a>{% endif %}
   {% if author.facebook %}<a href="http://facebook.com/{{ author.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
   {% if author.google.plus %}<a href="http://plus.google.com/+{{ author.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
   {% if author.linkedin %}<a href="http://cn.linkedin.com/in/{{ author.linkedin }}" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
