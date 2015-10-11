@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Author Override"
-author: Chan King
+author: jin_can
 modified:
 excerpt: "A post to test author overrides using a data file."
 tags: []
