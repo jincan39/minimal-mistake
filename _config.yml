@@ -2,6 +2,7 @@
 
 title:           金璨
 # locale:           en_US
+locale:           en_US
 url:
 
 
@@ -28,7 +29,6 @@ kramdown:
 owner:
   name: Channing
   avatar: photo.jpg
-  #bio-photo.jpg
   # https://avatars3.githubusercontent.com/u/4374980?v=3&s=460
   # bio-photo.jpg
   bio: "Helo.<br /> This is A developer just graduated and from Shanghai."
@@ -46,7 +46,7 @@ owner:
   github: jincan39
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: jincan39
-  Zhihu: jincan39
+  zhihu: jincan39
   xing: #username
   instagram: #username
   lastfm: #username
@@ -58,7 +58,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: jincan39
-  flickr: #username
+  flickr: jincan39
   codepen: #username
 
 include: [".htaccess"]
