@@ -111,13 +111,17 @@ comments: true
     onLanChange(0);
 </script>
 
-</footer>
-<!-- 多说评论框 start -->
-    <div class="ds-thread" data-thread-key={{ page.id }}  data-title={{ page.url }}  data-url={{ site.url }}{{ page.url }}></div>
-<!-- 多说评论框 end -->
-<!-- 多说 start -->
-<script type="text/javascript"  defer="defer">
-var duoshuoQuery = {short_name:"markyungithub"};
+
+{% if site.useDuoshuo %}
+ 多说评论框 start 
+    <div class="comment">
+        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/about/"></div>
+    </div>
+ 多说评论框 end 
+
+ 多说公共JS代码 start (一个网页只需插入一次) 
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"huxblog"};
     (function() {
         var ds = document.createElement('script');
         ds.type = 'text/javascript';ds.async = true;
@@ -126,39 +130,6 @@ var duoshuoQuery = {short_name:"markyungithub"};
         (document.getElementsByTagName('head')[0]
          || document.getElementsByTagName('body')[0]).appendChild(ds);
     })();
-    </script>
-<!-- 多说 end -->
-<!-- Archive post list -->
-{% if page.archive %}
-    <ul id="post-list" class="archive readmore">
-        <h3>阅读更多</h3>
-        {% for post in site.posts %}
-            <li>
-                <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}<aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
-            </li>
-        {% endfor %}
-    </ul>
+</script>
+ 多说公共JS代码 end 
 {% endif %}
-{% include footer.html %}
-
-<!--{% if site.useDuoshuo %}-->
-<!-- 多说评论框 start -->
-<!--    <div class="comment">-->
-<!--        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/about/"></div>-->
-<!--    </div>-->
-<!-- 多说评论框 end -->
-
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<!--<script type="text/javascript">-->
-<!--var duoshuoQuery = {short_name:"huxblog"};-->
-<!--    (function() {-->
-<!--        var ds = document.createElement('script');-->
-<!--        ds.type = 'text/javascript';ds.async = true;-->
-<!--        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';-->
-<!--        ds.charset = 'UTF-8';-->
-<!--        (document.getElementsByTagName('head')[0]-->
-<!--         || document.getElementsByTagName('body')[0]).appendChild(ds);-->
-<!--    })();-->
-<!--</script>-->
-<!-- 多说公共JS代码 end -->
-<!--{% endif %}-->
