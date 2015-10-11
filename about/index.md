@@ -21,24 +21,24 @@ comments: true
 </select>
 
 <!-- Chinese Version -->
-<div class="zh">
-    <blockquote>
-        写写代码，做做设计，看看产品。
-        世界那么大，多玩玩看看。
-    </blockquote>
+<!--<div class="zh">-->
+<!--    <blockquote>-->
+<!--        写写代码，做做设计，看看产品。-->
+<!--        世界那么大，多玩玩看看。-->
+<!--    </blockquote>-->
 
-    <p>大学生，就读于中国传媒大学数字媒体艺术专业 12 级，准大四。学的东西杂七杂八，技术艺术交叉，也当过<a href="http://www.cucxsh.cn/" target="_blank">学生会</a>部长，负责些小互联网产品</p>
+<!--    <p>大学生，就读于中国传媒大学数字媒体艺术专业 12 级，准大四。学的东西杂七杂八，技术艺术交叉，也当过<a href="http://www.cucxsh.cn/" target="_blank">学生会</a>部长，负责些小互联网产品</p>-->
 
-    <p>程序员，<a href="http://m.wepiao.com/index.html">微信电影票</a>前端工程师。曾在淘宝旅行（<a href="http://alitrip.com" target="_blank">阿里旅行·去啊</a>）前端团队实习一年载，主攻 JavaScript 全栈，也玩玩其他语言，希望成为一名<a href="http://www.zhihu.com/question/19589966/answer/12550259">产品工程师</a></p>
+<!--    <p>程序员，<a href="http://m.wepiao.com/index.html">微信电影票</a>前端工程师。曾在淘宝旅行（<a href="http://alitrip.com" target="_blank">阿里旅行·去啊</a>）前端团队实习一年载，主攻 JavaScript 全栈，也玩玩其他语言，希望成为一名<a href="http://www.zhihu.com/question/19589966/answer/12550259">产品工程师</a></p>-->
 
-    <p>设计师，UI/UX Designer，迷恋 OSX/iOS & Android & Windows，擅长 Layout/Typographic 与动效设计（Motion Graphic），大一在
-    <a href="http://weibo.com/lxustudio" target="_blank">LxU 工作室</a> 实习动画师，大二在阿里做了很短一段时间交互 </p>
+<!--    <p>设计师，UI/UX Designer，迷恋 OSX/iOS & Android & Windows，擅长 Layout/Typographic 与动效设计（Motion Graphic），大一在-->
+<!--    <a href="http://weibo.com/lxustudio" target="_blank">LxU 工作室</a> 实习动画师，大二在阿里做了很短一段时间交互 </p>-->
 
-    <p>产品狗，热衷于 Web & Mobile 产品，<a href="http://www.zhihu.com/people/huxpro">知乎</a>用户。手机收藏癖，轻微<a href="/tags/#职业病">职业病</a>，没事想想用户痛点、行业趋势、商业模式，无论身处什么职位都很在乎产品本身</p>
+<!--    <p>产品狗，热衷于 Web & Mobile 产品，<a href="http://www.zhihu.com/people/huxpro">知乎</a>用户。手机收藏癖，轻微<a href="/tags/#职业病">职业病</a>，没事想想用户痛点、行业趋势、商业模式，无论身处什么职位都很在乎产品本身</p>-->
 
-    <p>人类，唱唱通俗跳跳 HipHop ，也爱好打球游泳、摄影<del>把妹</del>，没事泡泡社交网络，刷刷微博知乎</p>
+<!--    <p>人类，唱唱通俗跳跳 HipHop ，也爱好打球游泳、摄影<del>把妹</del>，没事泡泡社交网络，刷刷微博知乎</p>-->
 
-    <p>哦对了，我叫<b>xxx</b>
+<!--    <p>哦对了，我叫<b>xxx</b>-->
 
     <hr>
     附上认真版的简历:
