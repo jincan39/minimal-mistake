@@ -2,7 +2,7 @@
 
 # title:           金璨
 # locale:           en_US
-locale:           en_US
+# locale:           en_US
 url: 
 
 
@@ -46,7 +46,7 @@ owner:
   github: jincan39
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: jincan39
-  zhihu: people/jincan39
+  zhihu: #people/jincan39
   xing: #username
   instagram: #username
   lastfm: #username
@@ -57,7 +57,7 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: 1287554400
+  weibo: #1287554400
   flickr: # jincan39
   codepen: #username
   
