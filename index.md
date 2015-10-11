@@ -1,9 +1,9 @@
----
-layout: home
-excerpt: "A minimal Jekyll theme blog by Channing."
-tags: [Jekyll, theme, responsive, blog, template]
+<!------->
+<!--layout: home-->
+<!--excerpt: "A minimal Jekyll theme blog by Channing."-->
+<!--tags: [Jekyll, theme, responsive, blog, template]-->
 
----
+<!------->
 样式模版
 
 
