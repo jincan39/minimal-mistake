@@ -6,7 +6,16 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
+## Some other style blogs:
 
+
+<a markdown="0" href="http://markyun.github.io/" class="btn">马云云</a>
+<a markdown="0" href="http://qiudeqing.com/article.html" class="btn">qiudeqing</a>
+<a markdown="0" href="http://lingyu.wang/#/category/JS技术" class="btn">lingyu.wang</a>
+<a markdown="0" href="http://ecomfe.github.io/" class="btn">ecomfe官网</a>
+<a markdown="0" href="http://blog.smdcn.net/" class="btn">smdcn</a>
+<a markdown="0" href="http://hmqk1995.github.io/" class="btn">hmqk1995</a><br />
+<a markdown="0"><a href="jincan39.github.io" class="btn btn-info">Chan</a>
 
 
 <!-- Language Selector -->
@@ -106,7 +115,7 @@ comments: true
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
     <div class="comment">
-        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/about/"></div>
+        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/friends/"></div>
     </div>
     <!--<div class="ds-thread" data-thread-key="请将此处替换成文章在你的站点中的ID" data-title="请替换成文章的标题" data-url="请替换成文章的网址"></div>-->
 <!-- 多说评论框 end -->
