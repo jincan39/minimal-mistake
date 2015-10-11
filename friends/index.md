@@ -16,7 +16,7 @@ comments: true
 <a markdown="0" href="http://ecomfe.github.io/" class="btn">ecomfe官网</a>
 <a markdown="0" href="http://blog.smdcn.net/" class="btn">smdcn</a>
 <a markdown="0" href="http://hmqk1995.github.io/" class="btn">hmqk1995</a><br />
-<div markdown="0"><a href="jincan39.github.io" class="btn btn-info">Chan</a></div>
+<a markdown="0"><a href="jincan39.github.io" class="btn btn-info">Chan</a>
 
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
