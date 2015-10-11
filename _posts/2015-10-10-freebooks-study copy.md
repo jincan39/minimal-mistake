@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "我媳妇儿是王婧怡"
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+title: "欢迎来到我的小站"
+excerpt: "Welcome to my blog."
 tags: [jin, readability, test]
 comments: true
 ---
@@ -10,4 +10,4 @@ comments: true
 
 ============================
 
-爱媳妇，爱生活💓。
+很高兴见到你💓。
