@@ -20,7 +20,26 @@ comments: true
 
 
 <br />
-等待你的留言
+* Support for Disqus Comments
+
+{% highlight html %}
+Comment below to exchange links
+{% endhighlight %}
+{% highlight html %}
+有朋自远方来，欢迎留言交流😊
+{% endhighlight %}
+
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+
+
+<!--## Buttons-->
+
+<!--黑<div markdown="0"><a href="#" class="btn">Primary Button</a></div>-->
+<!--绿<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>-->
+<!--黄<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>-->
+<!--红<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>-->
+<!--蓝<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>-->
+
   
 
 
