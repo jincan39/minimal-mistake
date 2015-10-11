@@ -1,5 +1,6 @@
 # 个人博客
-See my [Personal Blog](http://jincan39.github.io)
+
+[View Live Chan's Blog →](http://jincan39.github.io)<br />
 © 2015 Channing. Powered by Jekyll using the Minimal Mistakes theme.
 
 
