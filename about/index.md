@@ -43,11 +43,7 @@ comments: true
     <hr>
     附上认真版的简历:
     <ul class="active-list">
-        <li><a href="{{site.baseUrl}}/attach/2016_Hux_DEV_en.pdf"> 2016_Hux_DEV_en </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2016_Hux_PD_en.pdf"> 2016_Hux_PD_en </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2015_Hux_SDE_cn.pdf"> 2015_Hux_SDE_cn </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2015_Hux_UX & PD_cn.pdf"> 2015_Hux_UX & PD_cn </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2015_Hux_UX & PD_en.pdf"> 2015_Hux_UX & PD_en </a></li>
+        <li><a href="{{site.baseUrl}}/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> 2016_Chan_DEV_en </a></li>
     </ul>
 
     一些期待成为的角色:
