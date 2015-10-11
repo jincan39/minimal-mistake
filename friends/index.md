@@ -15,8 +15,8 @@ comments: true
 <a markdown="0" href="http://lingyu.wang/#/category/JS技术" class="btn">lingyu.wang</a>
 <a markdown="0" href="http://ecomfe.github.io/" class="btn">ecomfe官网</a>
 <a markdown="0" href="http://blog.smdcn.net/" class="btn">smdcn</a>
-<a markdown="0" href="http://hmqk1995.github.io/" class="btn">hmqk1995</a>
-
+<a markdown="0" href="http://hmqk1995.github.io/" class="btn">hmqk1995</a><br />
+<div markdown="0"><a href="jincan39.github.io" class="btn btn-info">Chan</a></div>
 
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
@@ -27,21 +27,17 @@ comments: true
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * Support for Disqus Comments
 
-
+{% highlight html %}
 Comment below to exchange links
+{% endhighlight %}
+
 <!--<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
 -->
 
-## Buttons
+<!--## Buttons-->
 
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+<!--黑<div markdown="0"><a href="#" class="btn">Primary Button</a></div>-->
+<!--绿<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>-->
+<!--黄<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>-->
+<!--红<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>-->
+<!--蓝<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>-->
