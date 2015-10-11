@@ -33,7 +33,7 @@ owner:
   # bio-photo.jpg
   bio: "Helo.<br /> This is A developer just graduated and from Shanghai."
   email: jincan39@163.com
-  disqus-shortname: chan
+  disqus-shortname: jincan39
   twitter: #username
   facebook: #username
   google:
@@ -58,7 +58,7 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: 1287554400
-  # flickr: jincan39
+  flickr: # jincan39
   codepen: #username
 
 include: [".htaccess"]
