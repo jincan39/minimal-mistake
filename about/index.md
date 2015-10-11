@@ -24,7 +24,8 @@ comments: true
 <div class="zh">
     <blockquote>
         梦想造飞机，不想造轮子。
-        世界那么大，多玩玩看看。
+        世界那么大，
+        多玩玩看看。
     </blockquote>
 
     <p>大学生，就读于上海应用技术大学软件工程 12 级，大四。</p>
