@@ -46,8 +46,7 @@ owner:
   github: jincan39
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: jincan39
-  # https://cn.linkedin.com/pub/can-jin/45/2b6/b99
-  zhihu: #people/jincan39
+  zhihu: people/jincan39
   xing: #username
   instagram: #username
   lastfm: #username
@@ -61,6 +60,13 @@ owner:
   weibo: 1287554400
   flickr: # jincan39
   codepen: #username
+  
+  
+# Duoshuo settings
+# please set your own DuoShuo account in `post.html` and `about.html`
+# seeing the Share component is depend on Comment so we can NOT use share only.
+useDuoshuo: true    # use both Comment and Share
+useShare: true      # set to false if you want to use Comment only
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
