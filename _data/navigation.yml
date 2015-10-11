@@ -12,8 +12,8 @@
 - title: 友情链接
   url: /friends/
   
-  # - title: 样式
-  # url: /theme-setup/
+  - title: 样式
+  url: /theme-setup/
 
 # - title: 个人网站
 #   url: https://github.com/jincan39
