@@ -3,6 +3,9 @@ See my [Personal Blog](http://jincan39.github.io)
 © 2015 Channing. Powered by Jekyll using the Minimal Mistakes theme.
 
 
+
+[screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)
+
 <!--# Minimal Mistakes-->
 
 <!--**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog.-->
