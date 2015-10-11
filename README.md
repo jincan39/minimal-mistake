@@ -17,12 +17,12 @@ See my [Personal Blog](http://jincan39.github.io)
 * Minimal embellishments -- content first.
 * Optional large feature images for posts and pages.
 * Simple and clear permalink structure.
-<!--* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.-->
+
 * [Custom 404 page](http://jincan39.github.io/404.html) to get you started.
 * Support for Disqus Comments
 
 
-
+<!--[Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.-->
 <!--See a [live version of Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/) hosted on GitHub.-->
 
 ## Getting Started
