@@ -9,10 +9,10 @@
 - title: 所有文章
   url: /posts/
 
-  - title: 样式
-  url: /theme-setup/
+  # - title: 样式
+  # url: /theme-setup/
   
-- title: 友情链接
+  - title: 友情链接
   url: /friends/
   
 
