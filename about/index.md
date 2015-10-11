@@ -38,7 +38,7 @@ comments: true
 
     <p>人类，唱唱通俗跳跳 HipHop ，也爱好打球游泳、摄影<del>把妹</del>，没事泡泡社交网络，刷刷微博知乎</p>
 
-    <p>哦对了，我叫<b>黄玄</b>
+    <p>哦对了，我叫<b>xxx</b>
 
     <hr>
     附上认真版的简历:
@@ -104,7 +104,7 @@ comments: true
             $zh.style.display = "none";
         }
     }
-    onLanChange(1);
+    onLanChange(0);
 </script>
 
 
