@@ -24,7 +24,7 @@ comments: true
 
 <p><b>金璨</b>，就读于上海应用技术大学软件工程 12 级，大四。</p>
 
-<p>理想青年，<a href="https://jincan39.github.io/">文艺范geek</a>。曾在mbp（<a href="http://www.mbpsoft.com/" target="_blank">现代商友</a>）前端团队实习半年载，主攻 Java/JavaScript，也玩玩其他语言，希望成为一名<a href="http://www.zhihu.com/question/19677325">项目经理</a></p><br />
+<p>理想青年，<a href="https://jincan39.github.io/">文艺范geek</a>。曾在mbp（<a href="http://www.mbpsoft.com/" target="_blank">现代商友</a>）前端团队实习半年载，主攻 Java/JavaScript，也玩玩其他语言，希望成为一名<a href="http://www.zhihu.com/question/19677325">项目经理</a>.</p>
     
 <p>软件工程师，Software Engineer。英文熟练CET6,曾有过Java Web项目(SSH框架)，hybrid app项目开发经验，熟悉Java,熟悉HTML5／CSS3/JS，SQL数据库.自学了<a href="https://github.com/jincan39/Mars">腾讯前端规范</a>和<a href="https://github.com/jincan39/Alice">支付宝CSS前端方案</a>. 熟悉前后端架构，亦使用ruby/python,了解Object C(Swift)/VB。</p>
 <p>
@@ -32,7 +32,7 @@ comments: true
 <a href="https://www.raspberrypi.org">（Raspberry Pi）</a>实现过关于
 <a href="http://www.cnblogs.com/xiaowuyi/p/4051238.html">网络云储存多媒体</a>
 <a href="http://techcrunch.cn/2014/06/06/sherlybox-creates-a-network-storage-system-on-your-desk/">(私有云)</a>及<a href="http://www.verious.com/tutorial/bringing-star-trek-to-life-lcars-home-automation-with-arduino-and-raspberry-pi-piday-raspberrypi-raspberry-pi/">家庭智能系统</a>。
-</p><br />
+</p>
 
 <p>设计师，UI/UX Designer，迷恋 OSX/iOS & Android & Windows/Linux，擅长 Layout/Typographic 与动效设计（Motion Graphic），会一些PS处理和Flash动画（ActionScript） </p><br />
 
