@@ -7,7 +7,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-<div class="main">
+<div >
 
 
 <!-- Chinese Version -->
@@ -23,10 +23,9 @@ comments: true
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
     <div class="comment">
-        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/about/"></div>
+        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/friends/"></div>
     </div>
 <!-- 多说评论框 end -->
-
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"jincan39"};
