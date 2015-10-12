@@ -5,7 +5,7 @@ tags: [friends, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
-
+<div class="zh">
 ## Some other style blogs:
 
 
@@ -43,6 +43,7 @@ comments: true
 <!--蓝<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>-->
 
   
+</div>
 
 <!--{% if site.useDuoshuo %}-->
 <!-- 多说评论框 start -->
