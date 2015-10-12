@@ -46,8 +46,7 @@ comments: true
 **欢迎同我联系!** Welcome to contact me😊.
 {: .notice}
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+
 
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
