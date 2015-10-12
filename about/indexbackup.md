@@ -17,17 +17,6 @@ comments: true
 
 **理想青年**，<a href="https://jincan39.github.io/">文艺范geek</a>。曾在mbp（<a href="http://www.mbpsoft.com/" target="_blank">现代商友</a>）前端团队实习半年载，主攻 Java/JavaScript，也玩玩其他语言，希望成为一名<a href="http://www.zhihu.com/question/19677325">项目经理</a>.
 
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .image-pull-right}
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
 **软件工程师**，Software Engineer。英文熟练CET6,曾有过Java Web项目(SSH框架)，hybrid app项目开发经验，熟悉Java,熟悉HTML5／CSS3/JS，SQL数据库.自学了<a href="https://github.com/jincan39/Mars">腾讯前端规范</a>和<a href="https://github.com/jincan39/Alice">支付宝CSS前端方案</a>. 熟悉前后端架构，亦使用ruby/python,了解Object C(Swift)/VB。</p>
 <p>
 在大学期间曾利用树莓派
@@ -41,26 +30,23 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 <del>会计师</del>，自学并考过了会计上岗证，目前正在准备报考注册会计师CPA
 <del>健身教练</del>，热衷于健身，是个有八块腹肌的肌肉男😣
 
+ *附上认真版的简历:*
+    
 {% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
+<a href="{{site.baseUrl}}/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>
 {% endhighlight %}
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-    <hr>
-    附上认真版的简历:
-    <ul class="active-list">
-        <li><a href="{{site.baseUrl}}/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a></li>
-    </ul>
+ 
 
-    一些期待成为的角色:
-    <ul>
-    <li> "Full Stack" Engineer/Designer </li>
-    <li> End to End Java(Object c/.NET)/JavaScript Engineer</li>
-    <li> Project Mannager </li>
-    <li> Creative Technologist </li>
-    <li> Product Engineer </li>
-    <li> UX Unicorn </li>
-    </ul>
+    ###一些期待成为的角色:
+    *"Full Stack" Engineer/Designer 
+    * End to End Java(Object c/.NET)/JavaScript Engineer
+    * Project Mannager
+    * Creative Technologist 
+    * Product Engineer 
+    * UX Unicorn
+
+**Watch out!** 欢迎同我联系！ `{: .notice}` to a paragraph.
+{: .notice}
 
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
