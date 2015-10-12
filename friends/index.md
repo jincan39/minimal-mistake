@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 <div class="zh">
-## Some other style blogs:<br />
+## Some other style blogs:<br /><br />
 
 
 <a markdown="0" href="http://markyun.github.io/" class="btn">马云云</a>
@@ -25,10 +25,7 @@ comments: true
 <!--* Support for Disqus Comments-->
 
 {% highlight html %}
-Comment below to exchange links
-{% endhighlight %}
-{% highlight html %}
-有朋自远方来，欢迎留言交流😊
+Comment below to exchange links.有朋自远方来，欢迎留言交流😊
 {% endhighlight %}
 
 <!--<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>-->
