@@ -3,13 +3,14 @@ layout: page
 title: About
 description: "Chan's introduction."
 tags: [about, Jekyll, theme, responsive]
-image:
-  feature: NYR_3815_0004.jpg
-  credit: Channing's pic
-  creditlink: https://github.com/jincan39/jincan39.github.io/blob/master/images/NYR_3815_0004.jpg
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
+<!--image:-->
+<!--  feature: NYR_3815_0004.jpg-->
+<!--  credit: Channing's pic-->
+<!--  creditlink: https://github.com/jincan39/jincan39.github.io/blob/master/images/NYR_3815_0004.jpg-->
+
 
 <div class="main">
  <!--Language Selector -->
