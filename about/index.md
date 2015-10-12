@@ -6,9 +6,10 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-### Blockquotes
+
 
 >梦想很大，步伐要慢。
+
 >世界那么大，多走走看看。
 
 ###金璨
@@ -47,7 +48,7 @@ comments: true
 {: .notice}
 
 
-
+<div>
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
     <div class="comment">
@@ -69,4 +70,4 @@ var duoshuoQuery = {short_name:"jincan39"};
 </script>
 <!-- 多说公共JS代码 end -->
 {% endif %}
-
+</div>
