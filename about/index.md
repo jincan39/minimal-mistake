@@ -33,7 +33,7 @@ comments: true
  *附上认真版的简历:*
     
 {% highlight html %}
-<a href="{{site.baseUrl}}/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>
+<a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>
 {% endhighlight %}
  
 
@@ -45,7 +45,7 @@ comments: true
     * Product Engineer 
     * UX Unicorn
 
-**Watch out!** 欢迎同我联系！ `{: .notice}` to a paragraph.
+**欢迎同我联系!** Welcome to contact me😊.
 {: .notice}
 
 {% if site.useDuoshuo %}
