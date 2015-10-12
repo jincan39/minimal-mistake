@@ -23,7 +23,7 @@ comments: true
 <!-- Chinese Version -->
 <div class="zh">
     <blockquote>
-        梦想造飞机，不想造轮子。<br />
+        朋友朋友朋友梦想造飞机，不想造轮子。<br />
         世界那么大，<br />
         多玩玩看看。
     </blockquote>
