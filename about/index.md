@@ -9,7 +9,6 @@ comments: true
 
 
 >梦想很大，步伐要慢。
-
 >世界那么大，多走走看看。
 
 ###金璨
@@ -31,6 +30,8 @@ comments: true
 <del>健身教练</del>，热衷于健身，是个有八块腹肌的肌肉男😣
 
  *附上认真版的简历:*
+    
+<a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>
     
 {% highlight html %}
 <a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>
