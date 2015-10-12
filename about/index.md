@@ -26,13 +26,13 @@ comments: true
 **设计师**，UI/UX Designer，迷恋 OSX/iOS & Android & Windows/Linux，擅长 Layout/Typographic 与动效设计（Motion Graphic），会一些PS处理和Flash动画（ActionScript）
 **产品狗**，热衷于 Web & Mobile 产品，<a href="http://www.zhihu.com/people/jincan39">知乎</a>用户。轻微<a href="/tags/#职业病">职业病</a>，没事想想用户痛点、行业趋势、商业模式，无论身处什么职位都很在乎产品本身
 
-<del>会计师</del>，自学并考过了会计上岗证，目前正在准备报考注册会计师CPA
+<!--<del>会计师</del>，自学并考过了会计上岗证，目前正在准备报考注册会计师CPA-->
 
-<del>健身教练</del>，热衷于健身，是个有八块腹肌的肌肉男😣
+<!--<del>健身教练</del>，热衷于健身，是个有八块腹肌的肌肉男😣-->
 
- *附上认真版的简历:*
+<!-- *附上认真版的简历:*-->
     
-<a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>
+<!--<a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>-->
     
 <!--{% highlight html %}-->
 <!--<a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>-->
