@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 description: "Chan's introduction."
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
@@ -25,8 +24,10 @@ comments: true
         梦想很大，步伐要慢。<br />
         世界那么大，多走走看看。<br />
     </blockquote>
+    
+###金璨
 
-<p><b>金璨</b>，就读于上海应用技术大学软件工程 12 级，大四。</p>
+就读于上海应用技术大学软件工程12级，大四。
 
 <p>理想青年，<a href="https://jincan39.github.io/">文艺范geek</a>。曾在mbp（<a href="http://www.mbpsoft.com/" target="_blank">现代商友</a>）前端团队实习半年载，主攻 Java/JavaScript，也玩玩其他语言，希望成为一名<a href="http://www.zhihu.com/question/19677325">项目经理</a>.</p><br/>
 
