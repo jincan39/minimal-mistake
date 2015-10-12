@@ -18,8 +18,7 @@ comments: true
 <div class="zh">
     <blockquote>
         梦想很大，步伐要慢。<br />
-        世界那么大，<br />
-        多走走看看。
+        世界那么大，多走走看看。<br />
     </blockquote>
 
 <p><b>金璨</b>，就读于上海应用技术大学软件工程 12 级，大四。</p>
