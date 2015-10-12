@@ -6,7 +6,8 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 <div class="zh">
-## Some other style blogs:<br /><br />
+## Some other style blogs:
+<br /><br />
 
 
 <a markdown="0" href="http://markyun.github.io/" class="btn">马云云</a>
