@@ -13,7 +13,7 @@ comments: true
 <!--description: "Hey, this is Hux."-->
 <!--header-img: "img/about-bg.jpg"-->
 <!------->
-
+<div class="main">
 <!-- Language Selector -->
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
     <option value="0" selected> 中文 Chinese </option>
@@ -53,6 +53,7 @@ comments: true
         <li> "Full Stack" Engineer/Designer </li>
     </ul>
 </div>
+<!--zh div end-->
 
 <!-- English Version -->
 <div class="en">
@@ -87,6 +88,7 @@ comments: true
         <li> "Full Stack" Engineer/Designer </li>
     </ul>
 </div>
+<!--en div end-->
 
 
 <!-- Handle Language Change -->
@@ -105,7 +107,8 @@ comments: true
     onLanChange(0);
 </script>
 
-
+</div>
+<!--main div end-->
 
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
