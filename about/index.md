@@ -49,7 +49,7 @@ comments: true
 * Product Engineer 
 * UX Unicorn
 
-**欢迎同我联系!** Welcome to contact me😊.
+**欢迎同我联系!** Welcome/Feel FREE to contact me😊.
 {: .notice}
 
 
