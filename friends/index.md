@@ -46,7 +46,7 @@ Comment below to exchange links.有朋自远方来，欢迎留言交流😊
 
 
 
-
+<div>
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
     <div class="comment">
@@ -67,5 +67,5 @@ var duoshuoQuery = {short_name:"jincan39"};
 </script>
 <!-- 多说公共JS代码 end -->
 {% endif %}
-
+</div>
 
