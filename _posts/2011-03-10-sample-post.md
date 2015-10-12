@@ -107,5 +107,5 @@ Make any link standout more when applying the `.btn` class.
 
 ## Notices
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+**欢迎同我联系！** welcome to contact me😊.
 {: .notice}
