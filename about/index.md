@@ -7,12 +7,6 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-<!------->
-<!--layout: page-->
-<!--title: "About"-->
-<!--description: "Hey, this is Hux."-->
-<!--header-img: "img/about-bg.jpg"-->
-<!------->
 <div class="main">
 <!-- Language Selector -->
 <select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
