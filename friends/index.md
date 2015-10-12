@@ -16,8 +16,11 @@ comments: true
 <a markdown="0" href="http://blog.smdcn.net/" class="btn">smdcn</a>
 <a markdown="0" href="http://kymjs.com/" class="btn">kymjs</a>
 
-<a markdown="0" href="http://hmqk1995.github.io/" class="btn">hmqk1995</a><br />
+<a markdown="0" href="http://hmqk1995.github.io/" class="btn">hmqk1995</a>
 <a markdown="0"><a href="jincan39.github.io" class="btn btn-info">Chan</a>
+<a markdown="0"><a href="http://linsir.org/" class="btn btn-info">linsir树莓派</a>
+
+
 
 
 
