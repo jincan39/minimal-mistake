@@ -5,9 +5,9 @@ tags: [friends, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
-<div class="zh">
+
 ## Some other style blogs:
-<br /><br />
+
 
 
 <a markdown="0" href="http://markyun.github.io/" class="btn">马云云</a>
@@ -16,7 +16,6 @@ comments: true
 <a markdown="0" href="http://ecomfe.github.io/" class="btn">ecomfe官网</a>
 <a markdown="0" href="http://blog.smdcn.net/" class="btn">smdcn</a>
 <a markdown="0" href="http://kymjs.com/" class="btn">kymjs</a>
-
 <a markdown="0" href="http://hmqk1995.github.io/" class="btn">hmqk1995</a>
 <a markdown="0"><a href="https://jincan39.github.io" class="btn btn-info">Chan</a>
 <a markdown="0"><a href="http://linsir.org/" class="btn btn-info">linsir树莓派</a>
