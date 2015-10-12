@@ -9,10 +9,10 @@ comments: true
 
 <div class="main">
  <!--Language Selector -->
-<!--<select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">-->
-<!--    <option value="0" selected> 中文 Chinese </option>-->
-<!--    <option value="1"> 英语 English </option>-->
-<!--</select>-->
+<select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> 中文 Chinese </option>
+    <option value="1"> 英语 English </option>
+</select>
 
 <!-- Chinese Version -->
 <div class="zh">
