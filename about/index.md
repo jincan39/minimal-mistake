@@ -65,22 +65,22 @@ comments: true
         Designer or Engineer, things in between.
     </blockquote>
 
-    <p>Student, major in New Media Art of <a href="https://en.wikipedia.org/wiki/Communication_University_of_China">Communication University of China</a>, which is a interdisciplinary subject of technology and art, and now Senior.</p>
+    <p>Student, major in Software Engineering of <a href="http://www.sit.edu.cn/">Insitute of Technology</a> in Shanghai,  and now Senior.</p>
 
-    <p>Programmer, JavaScript Engineer Intern of <a href="http://m.wepiao.com/index.html">Wechat Movie</a>, previous worked in <a href="http://alitrip.com" target="_blank">Alibaba Trip</a> as Front End Engineer for one year, looking for opportunities abroad.</p>
+    <p>Programmer, JavaScript Engineer Intern of <a href="#">Wechat Movie</a>, previous worked in <a href="#" target="_blank">Alibaba Trip</a> as Front End Engineer for one year, looking for opportunities abroad.</p>
 
     <p>Designer, offered as UI/UX Designer Intern by Alibaba Group, Microsoft Bing etc. Experienced in Motion Graphic Design, also familer with Layout and Typography.</p>
 
     <p>Product Design and Program Management is also attractive and comfortable to me.</p>
 
-    <p>My Chinese name is <b>Huang Xuan</b>, you can call me English name <b>Hux</b> for short.</p>
+    <p>My Chinese name is <b>Jin Can</b>, you can call me English name <b>Chan</b> for short.</p>
 
     <hr>
     Interested in more details? Just checkout my resumes:
     <ul class="active-list">
-        <li><a href="{{site.baseUrl}}/attach/2016_Hux_DEV_en.pdf"> 2016_Hux_DEV_en </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2016_Hux_PD_en.pdf"> 2016_Hux_PD_en </a></li>
-        <li><a href="{{site.baseUrl}}/attach/2015_Hux_UX & PD_en.pdf"> 2015_Hux_UX & PD_en </a></li>
+        <!--<li><a href="{{site.baseUrl}}/attach/2016_Hux_DEV_en.pdf"> 2016_Hux_DEV_en </a></li>-->
+        <!--<li><a href="{{site.baseUrl}}/attach/2016_Hux_PD_en.pdf"> 2016_Hux_PD_en </a></li>-->
+        <!--<li><a href="{{site.baseUrl}}/attach/2015_Hux_UX & PD_en.pdf"> 2015_Hux_UX & PD_en </a></li>-->
     </ul>
 
     My dream position include:
@@ -113,7 +113,7 @@ comments: true
 
 </div>
 <!--main div end-->
-
+<div>
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
     <div class="comment">
@@ -135,3 +135,4 @@ var duoshuoQuery = {short_name:"jincan39"};
 </script>
 <!-- 多说公共JS代码 end -->
 {% endif %}
+</div>
