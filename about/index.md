@@ -3,6 +3,10 @@ layout: page
 title: About
 description: "Chan's introduction."
 tags: [about, Jekyll, theme, responsive]
+image:
+  feature: NYR_3815_0004.jpg
+  credit: Channing's pic
+  creditlink: https://github.com/jincan39/jincan39.github.io/blob/master/images/NYR_3815_0004.jpg
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
@@ -24,6 +28,7 @@ comments: true
 <p><b>金璨</b>，就读于上海应用技术大学软件工程 12 级，大四。</p>
 
 <p>理想青年，<a href="https://jincan39.github.io/">文艺范geek</a>。曾在mbp（<a href="http://www.mbpsoft.com/" target="_blank">现代商友</a>）前端团队实习半年载，主攻 Java/JavaScript，也玩玩其他语言，希望成为一名<a href="http://www.zhihu.com/question/19677325">项目经理</a>.</p><br/>
+
 <p>软件工程师，Software Engineer。英文熟练CET6,曾有过Java Web项目(SSH框架)，hybrid app项目开发经验，熟悉Java,熟悉HTML5／CSS3/JS，SQL数据库.自学了<a href="https://github.com/jincan39/Mars">腾讯前端规范</a>和<a href="https://github.com/jincan39/Alice">支付宝CSS前端方案</a>. 熟悉前后端架构，亦使用ruby/python,了解Object C(Swift)/VB。</p>
 <p>
 在大学期间曾利用树莓派
@@ -33,6 +38,7 @@ comments: true
 </p><br/>
 <p>设计师，UI/UX Designer，迷恋 OSX/iOS & Android & Windows/Linux，擅长 Layout/Typographic 与动效设计（Motion Graphic），会一些PS处理和Flash动画（ActionScript） </p><br/>
 <p>产品狗，热衷于 Web & Mobile 产品，<a href="http://www.zhihu.com/people/jincan39">知乎</a>用户。轻微<a href="/tags/#职业病">职业病</a>，没事想想用户痛点、行业趋势、商业模式，无论身处什么职位都很在乎产品本身</p><br/>
+
 <p><del>会计师</del>，自学并考过了会计上岗证，目前正在准备报考注册会计师CPA</p>
 <p><del>健身教练</del>，热衷于健身，是个有八块腹肌的肌肉男😣</p>
 
@@ -112,7 +118,7 @@ comments: true
 {% if site.useDuoshuo %}
 <!-- 多说评论框 start -->
     <div class="comment">
-        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/friends/"></div>
+        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/about/"></div>
     </div>
 <!-- 多说评论框 end -->
 
