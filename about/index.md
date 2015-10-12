@@ -40,7 +40,7 @@ comments: true
 <!--<a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>-->
 <!--{% endhighlight %}-->
  
-**一些期待成为的角色:**
+**一些期待成为的角色**
 *"Full Stack" Engineer/Designer 
 * End to End Java(Object c/.NET)/JavaScript Engineer
 * Project Mannager
