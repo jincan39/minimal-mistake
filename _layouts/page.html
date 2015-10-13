@@ -45,7 +45,7 @@
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
     {% if site.owner.duoshuo-shortname and page.comments == true %}
-      <section id="duoshuo_thread"></section><!-- /#disqus_thread -->
+      <section id="duoshuo_thread"> {% include _duoshuo.html %}</section><!-- /#disqus_thread -->
     {% endif %}
   </article>
 </div><!-- /#index -->
