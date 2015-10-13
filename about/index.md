@@ -53,7 +53,7 @@ comments: true
 {: .notice}
 
 
-<div>
+
 {% if site.owner.duoshuo-shortname %}
  多说评论框 start 
     <div class="comment">
@@ -75,4 +75,4 @@ var duoshuoQuery = {short_name:"jincan39"};
 </script>
  多说公共JS代码 end 
 {% endif %}
-</div>
+
