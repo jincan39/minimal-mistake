@@ -2,6 +2,7 @@
 layout: post
 title: 把《The Swift Programming Language》读薄
 excerpt: "Reading The Swift Thinner."
+author: jin_can
 modified: 2013-05-31
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
