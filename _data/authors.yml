@@ -2,7 +2,7 @@
 
 jin_can:
   name: Chan King
-  web: http://github.com/jincan39
+  # web: http://github.com/jincan39
   email: jincan39@163.com
   bio: "What do you want, jewels? I am a very extravagant man."
   avatar: bio-photo-2.jpg
@@ -22,7 +22,7 @@ cornelius_fiddlebone:
 
 hawstein:
   name: Hawstein
-  web: http://www.hawstein.com/
+  github: https://github.com/Hawstein
   email: jincan39@163.com
   bio: "WanDou Lab."
   avatar: bio-photo-2.jpg
