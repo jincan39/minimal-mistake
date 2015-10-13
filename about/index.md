@@ -53,9 +53,8 @@ comments: true
 {: .notice}
 
 
-<div>
 {% if site.owner.duoshuo-shortname %}
- <!--多说评论框 start -->
+ 多说评论框 start 
     <div class="comment">
         <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/about/"></div>
     </div>
@@ -75,4 +74,4 @@ var duoshuoQuery = {short_name:"jincan39"};
 </script>
  <!--多说公共JS代码 end -->
 {% endif %}
-</div>
+
