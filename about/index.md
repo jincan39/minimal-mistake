@@ -41,6 +41,7 @@ comments: true
  
 
 **一些期待成为的角色:**
+
 * "Full Stack" Engineer/Designer 
 * End to End Java(Object c/.NET)/JavaScript Engineer
 * Project Mannager
