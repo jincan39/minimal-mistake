@@ -32,9 +32,8 @@ comments: true
 
 <del>健身教练</del>，热衷于健身，是个有八块腹肌的肌肉男😣
 
-*附上认真版的简历:*<br />
-    
-<a href="https://github.com/jincan39/jincan39.github.io/blob/master/attach//121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>
+*附上学校版的简历:*
+<a href="https://github.com/jincan39/jincan39.github.io/blob/master/attach//121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a><br />
     
 <!--{% highlight html %}-->
 <!--<a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>-->
@@ -42,7 +41,6 @@ comments: true
  
 
 **一些期待成为的角色:**
-
 * "Full Stack" Engineer/Designer 
 * End to End Java(Object c/.NET)/JavaScript Engineer
 * Project Mannager
