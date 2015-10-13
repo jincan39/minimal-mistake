@@ -41,18 +41,12 @@
         {% include _social-share.html %}
       {% endif %}
     </div><!-- /.article-wrap -->
-<!--{% if site.owner.duoshuo-shortname and page.comments == true %}-->
-<!--    <section id="ds_thread"></section><!-- /#ds_thread -->-->
-<!--{% endif %}-->
-                {% if site.owner.duoshuo-shortname %}
-                <!-- 多说评论框 start -->
-                <div class="comment">
-                    <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div>
-                </div>
-                <!-- 多说评论框 end -->
-                {% endif %}
-                
-{% if site.owner.duoshuo-shortname %}
+
+ {% if site.owner.duoshuo-shortname %}
+ <!-- 多说评论框 start -->
+ <div class="comment">
+    <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div>
+ </div>
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"jincan39"};
@@ -66,6 +60,7 @@ var duoshuoQuery = {short_name:"jincan39"};
     })();
 </script>
 <!-- 多说公共JS代码 end -->
+
 {% endif %}
   </article>
 </div><!-- /#index -->
