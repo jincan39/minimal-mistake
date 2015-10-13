@@ -1,14 +1,10 @@
 ---
 layout: post
-title: Sample Post
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: 把《The Swift Programming Language》读薄
+excerpt: "Reading The Swift Thinner."
 modified: 2013-05-31
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
-image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <section id="table-of-contents" class="toc">
@@ -27,33 +23,33 @@ category: Reading
 title: 把《The Swift Programming Language》读薄
 ---
 
-## 目录
+<!--## 目录-->
 
-1. [About Swift](#About)
-1. [The Basics](#Basic)
-1. [Basic Operators](#BasicOperator)
-1. [Strings and Characters](#String)
-1. [Collection Types](#Collection)
-1. [Control Flow](#ControlFlow)
-1. [Functions](#Function)
-1. [Closures](#Closure)
-1. [Enumerations](#Enumeration)
-1. [Classes and Structures](#Class)
-1. [Properties](#Property)
-1. [Methods](#Method)
-1. [Subscripts](#Subscript)
-1. [Inheritance](#Inheritance)
-1. [Initialization](#Initialization)
-1. [Deinitialization](#Deinitialization)
-1. [Automatic Reference Counting](#ARC)
-1. [Optional Chaining](#OptionalChaining)
-1. [Type Casting](#TypeCasting)
-1. [Nested Types](#NestedType)
-1. [Extensions](#Extension)
-1. [Protocols](#Protocol)
-1. [Generics](#Generic)
-1. [Advanced Operators](#AdvancedOperator)
-1. [A Swift Tour](#Tour) // 放到最后避免有人看不懂
+<!--1. [About Swift](#About)-->
+<!--1. [The Basics](#Basic)-->
+<!--1. [Basic Operators](#BasicOperator)-->
+<!--1. [Strings and Characters](#String)-->
+<!--1. [Collection Types](#Collection)-->
+<!--1. [Control Flow](#ControlFlow)-->
+<!--1. [Functions](#Function)-->
+<!--1. [Closures](#Closure)-->
+<!--1. [Enumerations](#Enumeration)-->
+<!--1. [Classes and Structures](#Class)-->
+<!--1. [Properties](#Property)-->
+<!--1. [Methods](#Method)-->
+<!--1. [Subscripts](#Subscript)-->
+<!--1. [Inheritance](#Inheritance)-->
+<!--1. [Initialization](#Initialization)-->
+<!--1. [Deinitialization](#Deinitialization)-->
+<!--1. [Automatic Reference Counting](#ARC)-->
+<!--1. [Optional Chaining](#OptionalChaining)-->
+<!--1. [Type Casting](#TypeCasting)-->
+<!--1. [Nested Types](#NestedType)-->
+<!--1. [Extensions](#Extension)-->
+<!--1. [Protocols](#Protocol)-->
+<!--1. [Generics](#Generic)-->
+<!--1. [Advanced Operators](#AdvancedOperator)-->
+<!--1. [A Swift Tour](#Tour) // 放到最后避免有人看不懂-->
 
 <a id="About"></a>
 ## About Swift
