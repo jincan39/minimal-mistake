@@ -7,22 +7,7 @@ modified: 2013-05-31
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 ---
-
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
-
----
-layout: post
-category: Reading
-title: 把《The Swift Programming Language》读薄
----
+{% include _toc.html %}
 
 <!--## 目录-->
 
