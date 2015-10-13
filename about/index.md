@@ -34,7 +34,7 @@ comments: true
 
 *附上认真版的简历:*
     
-<a href="https://github.com/jincan39/jincan39.github.io/blob/master/attach//121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>
+<a href="https://github.com/jincan39/jincan39.github.io/blob/master/attach//121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a><br />
     
 <!--{% highlight html %}-->
 <!--<a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a>-->
@@ -42,7 +42,6 @@ comments: true
  
 
 **一些期待成为的角色:**
-
 * "Full Stack" Engineer/Designer 
 * End to End Java(Object c/.NET)/JavaScript Engineer
 * Project Mannager
@@ -54,25 +53,20 @@ comments: true
 {: .notice}
 
 
-<!--{% if site.owner.duoshuo-shortname %}-->
-<!-- 多说评论框 start -->
-<!--    <div class="comment">-->
-<!--        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/about/"></div>-->
-<!--    </div>-->
- <!--多说评论框 end -->
-
- <!--多说公共JS代码 start (一个网页只需插入一次) -->
-<!--<script type="text/javascript">-->
-<!--var duoshuoQuery = {short_name:"jincan39"};-->
-<!--    (function() {-->
-<!--        var ds = document.createElement('script');-->
-<!--        ds.type = 'text/javascript';ds.async = true;-->
-<!--        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';-->
-<!--        ds.charset = 'UTF-8';-->
-<!--        (document.getElementsByTagName('head')[0]-->
-<!--         || document.getElementsByTagName('body')[0]).appendChild(ds);-->
-<!--    })();-->
-<!--</script>-->
- <!--多说公共JS代码 end -->
-<!--{% endif %}-->
+{% if site.owner.duoshuo-shortname %}
+    <div class="comment">
+        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/about/"></div>
+    </div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"jincan39"};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0]
+         || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+</script>
+{% endif %}
 
