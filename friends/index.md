@@ -8,7 +8,6 @@ comments: true
 ## Some other style blogs:
 
 
-
 <a markdown="0" target="_blank" href="http://markyun.github.io/" class="btn">马云云</a>
 <a markdown="0" target="_blank" href="http://qiudeqing.com/article.html" class="btn">qiudeqing</a>
 <a markdown="0" target="_blank" href="http://lingyu.wang/#/category/JS技术" class="btn">lingyu.wang</a>
@@ -37,25 +36,5 @@ Comment below to exchange links.有朋自远方来，欢迎留言交流😊
 <!--蓝<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>-->
 
 
-{% if site.owner.duoshuo-shortname %}
- <!--多说评论框 start -->
-    <div class="comment">
-        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/friends/"></div>
-    </div>
- <!--多说评论框 end -->
 
- <!--多说公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"jincan39"};
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';ds.async = true;
-        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0]
-         || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
-</script>
- <!--多说公共JS代码 end -->
-{% endif %}
 
