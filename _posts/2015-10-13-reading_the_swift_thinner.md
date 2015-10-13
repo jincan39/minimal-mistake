@@ -26,6 +26,20 @@ You can access the minimum and maximum values of each integer type with its min 
 
 虽然有UInt，但能用Int的时候就用Int。
 
+{% highlight css %}
+// 各种进制的字面量表示
+let decimalInteger = 17
+let binaryInteger = 0b10001       // 17 in binary notation
+let octalInteger = 0o21           // 17 in octal notation
+let hexadecimalInteger = 0x11     // 17 in hexadecimal notation
+
+// 更易于阅读的写法
+let paddedDouble = 000123.456
+let oneMillion = 1_000_000
+let justOverOneMillion = 1_000_000.000_000_1
+{% endhighlight %}
+
+
 ```swift
 // 各种进制的字面量表示
 let decimalInteger = 17
