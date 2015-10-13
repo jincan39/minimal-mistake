@@ -42,7 +42,8 @@ Comment below to exchange links.有朋自远方来，欢迎留言交流😊
 
 
 <div>
-{% if site.useDuoshuo %}
+<!--{% if site.useDuoshuo %}-->
+{% if site.owner.duoshuo-shortname %}
 <!-- 多说评论框 start -->
     <div class="comment">
         <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/friends/"></div>
