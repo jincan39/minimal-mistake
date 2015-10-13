@@ -36,23 +36,23 @@ Comment below to exchange links.有朋自远方来，欢迎留言交流😊
 <!--蓝<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>-->
 
 
-<div>
-{% if site.owner.duoshuo-shortname %}
-多说
-    <div class="comment">
-        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/friends/"></div>
-    </div>
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"jincan39"};
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';ds.async = true;
-        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0]
-         || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
-</script>
-{% endif %}
-</div>
+<!--<div>-->
+<!--{% if site.owner.duoshuo-shortname %}-->
+<!--多说-->
+<!--    <div class="comment">-->
+<!--        <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/friends/"></div>-->
+<!--    </div>-->
+<!--<script type="text/javascript">-->
+<!--var duoshuoQuery = {short_name:"jincan39"};-->
+<!--    (function() {-->
+<!--        var ds = document.createElement('script');-->
+<!--        ds.type = 'text/javascript';ds.async = true;-->
+<!--        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';-->
+<!--        ds.charset = 'UTF-8';-->
+<!--        (document.getElementsByTagName('head')[0]-->
+<!--         || document.getElementsByTagName('body')[0]).appendChild(ds);-->
+<!--    })();-->
+<!--</script>-->
+<!--{% endif %}-->
+<!--</div>-->
 
