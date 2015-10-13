@@ -37,11 +37,7 @@ Comment below to exchange links.有朋自远方来，欢迎留言交流😊
 <!--红<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>-->
 <!--蓝<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>-->
 
-  
 
-
-
-<div>
 {% if site.owner.duoshuo-shortname %}
  多说评论框 start 
     <div class="comment">
@@ -63,5 +59,4 @@ var duoshuoQuery = {short_name:"jincan39"};
 </script>
  多说公共JS代码 end 
 {% endif %}
-</div>
 
