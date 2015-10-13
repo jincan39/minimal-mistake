@@ -1,13 +1,13 @@
 {
   "name": "minimal-mistakes-theme",
   "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://jincan39.github.io/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/jincan39/jincan39.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/jincan39/jincan39.github.io/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
