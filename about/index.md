@@ -42,6 +42,7 @@ comments: true
  
 
 **一些期待成为的角色:**
+
 * "Full Stack" Engineer/Designer 
 * End to End Java(Object c/.NET)/JavaScript Engineer
 * Project Mannager
@@ -52,7 +53,7 @@ comments: true
 **欢迎同我联系!** Welcome/Feel FREE to contact me😊.
 {: .notice}
 
-
+<div>
 {% if site.owner.duoshuo-shortname %}
     <div class="comment">
         <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}/about/"></div>
@@ -69,4 +70,4 @@ var duoshuoQuery = {short_name:"jincan39"};
     })();
 </script>
 {% endif %}
-
+</div>
