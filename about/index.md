@@ -24,9 +24,9 @@ comments: true
 <a href="http://www.cnblogs.com/xiaowuyi/p/4051238.html">网络云储存多媒体</a>
 <a href="http://techcrunch.cn/2014/06/06/sherlybox-creates-a-network-storage-system-on-your-desk/">(私有云)</a>及<a href="http://www.verious.com/tutorial/bringing-star-trek-to-life-lcars-home-automation-with-arduino-and-raspberry-pi-piday-raspberrypi-raspberry-pi/">家庭智能系统</a>。
 
-**设计师**，UI/UX Designer，迷恋 OSX/iOS & Android & Windows/Linux，擅长 Layout/Typographic 与动效设计（Motion Graphic），会一些PS处理和Flash动画（ActionScript）
+<del>设计师</del>，UI/UX Designer，迷恋 OSX/iOS & Android & Windows/Linux，擅长 Layout/Typographic 与动效设计（Motion Graphic），会一些PS处理和Flash动画（ActionScript）
 
-<del>产品经理</del>，热衷于 Web & Mobile 产品项目管理，行业趋势、商业模式，思维导图分析，团队沟通，无论身处什么职位都很在乎产品本身.
+**产品经理**，热衷于 Web & Mobile 产品项目管理，行业趋势、商业模式，思维导图分析，团队沟通，无论身处什么职位都很在乎产品本身.
 
 <del>会计师</del>，自学并考过了会计上岗证，目前正在准备报考注册会计师CPA
 
