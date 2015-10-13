@@ -10,7 +10,7 @@ comments: true
 
 
 
-<a markdown="0" href="http://markyun.github.io/" class="btn">马云云</a>
+<a markdown="0" target="_blank" href="http://markyun.github.io/" class="btn">马云云</a>
 <a markdown="0" href="http://qiudeqing.com/article.html" class="btn">qiudeqing</a>
 <a markdown="0" href="http://lingyu.wang/#/category/JS技术" class="btn">lingyu.wang</a>
 <a markdown="0" href="http://ecomfe.github.io/" class="btn">ecomfe官网</a>
