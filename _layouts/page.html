@@ -36,11 +36,11 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-      {% if site.owner.disqus-shortname and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-      {% endif %}
       {% if site.owner.duoshuo-shortname and page.comments == true %}
       <section id="ds_thread"></section><!-- /#disqus_thread -->
+      {% endif %}
+      {% if site.owner.disqus-shortname and page.comments == true %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
       {% endif %}
 <!--<div>-->
 <!--{% if site.owner.duoshuo-shortname %}-->
