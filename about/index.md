@@ -71,7 +71,7 @@ comments: true
 
 <div>
 {% if site.owner.duoshuo-shortname %}
-  <!--多说评论框 start -->
+  多说评论框 start 
  <div class="comment">
     <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div>
  </div>
