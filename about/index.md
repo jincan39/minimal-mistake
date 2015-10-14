@@ -34,7 +34,7 @@ comments: true
 
 ---
 >*附上学校版的简历:*
-&emsp;<a href="https://github.com/jincan39/jincan39.github.io/blob/master/attach//121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a><br />
+&emsp;<a href="https://github.com/jincan39/jincan39.github.io/attach/121042Y126-金璨－2016届毕业生就业推荐表.doc"> Chan_DEV_cn 2016届毕业生就业推荐表</a><br />
   
 
 **一些期待成为的角色:**
