@@ -21,7 +21,7 @@ comments: true
 
 <del>设计师</del>，UI/UX Designer，迷恋 OSX/iOS & Android & Windows/Linux，擅长 Layout 与动效设计（Motion Graphic），会一些PS处理和Flash动画（ActionScript）。
 
-**产品经理**，热衷于 Web & Mobile 产品项目管理，行业趋势、商业模式，思维导图分析，团队沟通，无论身处什么职位都很在乎产品本身.
+**产品经理**，热衷于 Web & Mobile 产品项目管理，行业趋势、商业模式，思维导图分析，团队沟通，无论身处什么职位都很在乎产品本身。
 
 <del>会计师</del>，自学并考过了会计上岗证，目前正在准备报考注册会计师CPA。
 
