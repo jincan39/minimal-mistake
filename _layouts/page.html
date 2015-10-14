@@ -37,7 +37,9 @@
     <div class="article-wrap">
       {{ content }}
       {% if site.owner.duoshuo-shortname and page.comments == true %}
-      <section id="ds_thread"></section><!-- /#disqus_thread -->
+      <div class="comment">
+      <div class="ds-thread" data-thread-key="{{page.id}}" data-title="{{page.title}}" data-url="{{site.url}}{{page.url}}"></div>
+      </div>
       {% endif %}
       {% if site.owner.disqus-shortname and page.comments == true %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
