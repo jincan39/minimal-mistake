@@ -53,11 +53,11 @@
 <!--$$-->
 
 
-```sequence
-Title:15年11月开始求职
-我->>企业: 求职请求（SYN=1,seq=client_isn） 
-企业-->我: 建立联系（SYN=1,seq=client_isn）\n ack=client_isn+1
-我-->>企业: 面试请求（SYN=1,seq=client_isn） 
-企业-->我: 面试通过（SYN=1,seq=client_isn）\n ack=client_isn+1
-我->>企业: 确认入职（SYN=0,seq=client_isn+1）\nack=server_isn+1
-```
+<!--```sequence-->
+<!--Title:15年11月开始求职-->
+<!--我->>企业: 求职请求（SYN=1,seq=client_isn） -->
+<!--企业-->我: 建立联系（SYN=1,seq=client_isn）\n ack=client_isn+1-->
+<!--我-->>企业: 面试请求（SYN=1,seq=client_isn） -->
+<!--企业-->我: 面试通过（SYN=1,seq=client_isn）\n ack=client_isn+1-->
+<!--我->>企业: 确认入职（SYN=0,seq=client_isn+1）\nack=server_isn+1-->
+<!--```-->
