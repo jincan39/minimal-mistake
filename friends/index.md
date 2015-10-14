@@ -7,7 +7,7 @@ comments: true
 
 ## Some other style blogs:
 
-<a markdown="0" target="_blank" href="http://markyun.github.io/" class="btn">马云云</a>
+<a markdown="0" target="_blank" href="http://icodeit.org/blog/archives/" class="btn">邱俊涛</a>
 <a markdown="0" target="_blank" href="http://qiudeqing.com/article.html" class="btn">qiudeqing</a>
 <a markdown="0" target="_blank" href="http://lingyu.wang/#/category/JS技术" class="btn">lingyu.wang</a>
 <a markdown="0" target="_blank" href="http://ecomfe.github.io/" class="btn">ecomfe官网</a>
@@ -55,4 +55,3 @@ Comment below to exchange links.有朋自远方来，欢迎留言交流😊
 <!--</script>-->
 <!--{% endif %}-->
 <!--</div>-->
-
