@@ -13,8 +13,8 @@ comments: true
 >世界那么大，多走走看看。
 
 ### 金璨
-就读于上海应用技术大学软件工程12级，大四。
-
+&nbsp;&ensp;&emsp;*就读于上海应用技术大学软件工程12级，大四。*
+ ---
 **理想青年**，<a href="https://jincan39.github.io/">文艺范geek</a>。曾在mbp（<a href="http://www.mbpsoft.com/" target="_blank">现代商友</a>）前端团队实习半年载，主攻 Java/JavaScript，也玩玩其他语言，希望成为一名项目经理/技术达人.
 
 
