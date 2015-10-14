@@ -7,7 +7,6 @@ comments: true
 
 ## Some other style blogs:
 
-
 <a markdown="0" target="_blank" href="http://markyun.github.io/" class="btn">马云云</a>
 <a markdown="0" target="_blank" href="http://qiudeqing.com/article.html" class="btn">qiudeqing</a>
 <a markdown="0" target="_blank" href="http://lingyu.wang/#/category/JS技术" class="btn">lingyu.wang</a>
@@ -17,6 +16,7 @@ comments: true
 <a markdown="0" target="_blank" href="http://hmqk1995.github.io/" class="btn">hmqk1995</a>
 <a markdown="0" target="_blank" href="https://jincan39.github.io" class="btn btn-info">Chan</a>
 <a markdown="0" target="_blank" href="http://linsir.org/" class="btn btn-info">linsir树莓派</a>
+<a markdown="0" target="_blank" href="https://github.com/jptiancai/jptiancai.github.com" class="btn btn-info">静态网站集合</a>
 
 
 
