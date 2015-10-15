@@ -72,19 +72,13 @@ comments: true
 
     <p>Programmer, JavaScript Engineer Intern of <a href="#">Wechat Movie</a>, previous worked in <a href="#" target="_blank">Alibaba Trip</a> as Front End Engineer for one year, looking for opportunities abroad.</p>
 
-    <p>Designer, offered as UI/UX Designer Intern by Alibaba Group, Microsoft Bing etc. Experienced in Motion Graphic Design, also familer with Layout and Typography.</p>
-
     <p>Product Design and Program Management is also attractive and comfortable to me.</p>
 
     <p>My Chinese name is <b>Jin Can</b>, you can call me English name <b>Chan</b> for short.</p>
 
     <hr>
     Interested in more details? Just checkout my resumes:
-    <ul class="active-list">
-        <!--<li><a href="{{site.baseUrl}}/attach/2016_Hux_DEV_en.pdf"> 2016_Hux_DEV_en </a></li>-->
-        <!--<li><a href="{{site.baseUrl}}/attach/2016_Hux_PD_en.pdf"> 2016_Hux_PD_en </a></li>-->
-        <!--<li><a href="{{site.baseUrl}}/attach/2015_Hux_UX & PD_en.pdf"> 2015_Hux_UX & PD_en </a></li>-->
-    </ul>
+
 
     My dream position include:
     <ul>
