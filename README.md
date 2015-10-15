@@ -3,25 +3,25 @@
 <!--[View Live Chan's Blog →](http://jincan39.github.io)<br />-->
 
 
-<!--![screenshot of Minimal Mistakes theme](https://github.com/jincan39/jincan39.github.io/blob/master/images/chan_background.jpg)-->
+![screenshot of Minimal Mistakes theme](https://github.com/jincan39/jincan39.github.io/blob/master/images/chan_background.jpg)
 
-<!--© 2015 Channing. Powered by Jekyll using the Minimal Mistakes theme.-->
+© 2015 Channing. Powered by Jekyll using the Minimal Mistakes theme.
 
-<!--![screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)-->
+![screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)
 
-<!--# Minimal Mistakes-->
+# Minimal Mistakes
 
-<!--**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog.-->
+**[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog.
 
-<!--## Minimal Mistakes is all about:-->
+## Minimal Mistakes is all about:
 
-<!--* Responsive templates. Looking good on mobile, tablet, and desktop.-->
-<!--* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.-->
-<!--* Minimal embellishments -- content first.-->
-<!--* Optional large feature images for posts and pages.-->
-<!--* Simple and clear permalink structure.-->
-<!--* [Custom 404 page](http://jincan39.github.io/404.html) to get you started.-->
-<!--* Support for Disqus Comments-->
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
+* Minimal embellishments -- content first.
+* Optional large feature images for posts and pages.
+* Simple and clear permalink structure.
+* [Custom 404 page](http://jincan39.github.io/404.html) to get you started.
+* Support for Disqus Comments
 
 
 <!--[Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.-->
